@@ -1,3 +1,5 @@
 # AccessJavaScript
 ##### Reference-->[Javascript Sample](https://wfublog.github.io/test/welcome.js)
-##### Demo Intro-->[§K¶OªÅ¶¡³Ì«á¤@¶ô²b¤g¡È¥Î Github ¦s¨úºô­¶ JS/CSS ¥~³sÀÉ®× + ¨Ï¥Î§Ş¥©](https://www.wfublog.com/2017/03/github-page-js-css-direct-link.html)
+##### Demo Resource-->[å…è²»ç©ºé–“æœ€å¾Œä¸€å¡Šæ·¨åœŸï¹ç”¨ Github å­˜å–ç¶²é  JS/CSS å¤–é€£æª”æ¡ˆ + ä½¿ç”¨æŠ€å·§](https://www.wfublog.com/2017/03/github-page-js-css-direct-link.html)
+
+#### Demo [LINK](https://udoughong.github.io/AccessJavaScript/)
