@@ -1,10 +1,10 @@
 function myAlert() {
     alert("Welcome to UDOUGHONG BLOG!");
 }
-function myWelcome() {
-    document.getElementById("demo").innerText = "Hello JavaScript!";
+function myWelcome(target) {
+    document.getElementById(target).innerText = "Hello JavaScript!";
 }
-function myFunction() {
+function myFunction(target) {
     var a = 4;
-    document.getElementById("demo").innerText = a * a;
+    document.getElementById(target).innerText = a * a;
 }
