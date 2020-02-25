@@ -4,7 +4,7 @@ function myAlert() {
 function myWelcome(target) {
     document.getElementById(target).innerText = "Hello JavaScript!";
 }
-function myFunction(target ,a) {
-    //var a = 4;
+function myFunction(target ,input) {
+    var a = input;
     document.getElementById(target).innerText = a * a;
 }
