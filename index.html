@@ -5,7 +5,19 @@
     <meta charset="utf-8" />
     <title>JavaScript Example</title>
     <!--<script src='https://wfublog.github.io/test/welcome.js'></script>-->
-    <script src='js/welcome.js'></script>
+    <!--<script src='js/welcome.js'></script>-->
+    <script type="text/javascript">
+    function myAlert() {
+    alert("Welcome to UDOUGHONG BLOG!");
+}
+function myWelcome(target) {
+    document.getElementById(target).innerText = "Hello JavaScript!";
+}
+function myFunction(target ,myInput) {
+    var a = document.getElementById(myInput).value;
+    document.getElementById(target).innerText = a * a;
+}
+    </script>
 </head>
 <body>
     <h1>JavaScript Example</h1>
